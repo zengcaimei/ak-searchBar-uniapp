@@ -1,0 +1,15 @@
+{
+  "name": "ak-searchbar",
+  "version": "1.0.3",
+  "main": "main.js",
+  "dependencies": {
+    "weixin-js-sdk": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zcm",
+  "license": "ISC",
+  "description": "搜索组件"
+}

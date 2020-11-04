@@ -1,0 +1,9 @@
+node_modules
+unpackage
+# ---> Ada
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+
